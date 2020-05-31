@@ -54,7 +54,7 @@ Pull-requests welcome.
 - [ ] Open & close the lift gate; sometimes the gasket gets caught in the molding causing a click 
 - [ ] Inspect cargo covers and verify they're properly attached
 - [ ] Confirm seat & trunk buttons fold the back seats
-- [ ] Inspect back seat coversand verify they're properly attached
+- [ ] Inspect back seat covers and verify they're properly attached
 - [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
 
 
