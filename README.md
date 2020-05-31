@@ -41,6 +41,7 @@ Pull-requests welcome.
 - [ ] Inspect floor mats for rips, stains, etc.
 - [ ] Inspect the metal support holding the accelerator and brake pedals
 - [ ] Turn on climate control, force the heat pump to kick in (by taking the temperature to either end of the scale) and listen for loud noises
+- [ ] Confirm (car battery) charging works
 
 ## Frunk
 
