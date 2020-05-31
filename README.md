@@ -14,22 +14,28 @@ Pull-requests welcome.
 - [ ] Check for trim scratches on window
 - [ ] Check tail light fit (are they flush?)
 - [ ] Check head light fit
+- [ ] Turn on the lights on the car including (fog lights, head lights, taillights,  reverse light, brake, signal lights(headlight signal and side signal lights)
+- [ ] Check charging port fit (are they flush with tail light?)
 - [ ] Check all 4 door levers
 - [ ] Check all wheels, make sure they aren’t scratched
 - [ ] Confirm all 4 hubcaps are present and properly attached
 - [ ] Inspect wipers and look for potential wiper dings on hood
+- [ ] Inspect every glass and make sure there are no scratches or cracks already. 
+- [ ] Inspect paint on the outside and the door jams. 
 
 ## Interior
 
 - [ ] Inspect the screen for scratches
 - [ ] Inspect the center console scratches, dings, etc.
-- [ ] Verify wireless charging, both sides
+- [ ] Inspect the dash for scratches
+- [ ] Verify wireless charging works on both sides
 - [ ] Confirm wired charging works (1 x USB-A in front, 3 x USB-C, front and back)
 - [ ] Open and close the glovebox
+- [ ] Open and close windows using one click open close and manually open and close. (make sure there are no noises and they stay up when you close, and when they go down they do all the way down for front two windows. The rear two windows don't go down all the way.
 - [ ] Verify backup camera
 - [ ] Test the sound system and confirm that all speaker work and there are no unexpected clicks/etc.
 - [ ] Fold mirrors
-- [ ] Check all lights
+- [ ] Check all interior lights
 - [ ] Check windshield all around
 - [ ] Inspect the headliner all around
 - [ ] Inspect both coat hooks
@@ -47,6 +53,7 @@ Pull-requests welcome.
 
 - [ ] Open and close the frunk
 - [ ] Check for dents
+- [ ] Make sure the hood sits flush with the quarter panels and frunk. 
 - [ ] Verify clips holding the trim area around the frunk
 - [ ] Confirm the tow hook isn't missing
 
