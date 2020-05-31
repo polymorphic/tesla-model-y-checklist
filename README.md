@@ -42,7 +42,8 @@ Pull-requests welcome.
 - [ ] Inspect the steering wheel, check front & back for scratches or tears
 - [ ] Look for scratches on the passenger side door sill
 - [ ] Check seats for scuffs/damage/bad seams
-- [ ] Verify all front seat adjustments, including lumbar support 
+- [ ] Verify all front seat adjustments, including lumbar support
+- [ ] Confirm seat warmers work 
 - [ ] Confirm the middle seat on back row is flush at both ends
 - [ ] Inspect floor mats for rips, stains, etc.
 - [ ] Inspect the metal support holding the accelerator and brake pedals
