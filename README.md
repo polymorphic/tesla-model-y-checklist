@@ -45,6 +45,7 @@ Pull-requests welcome.
 - [ ] Verify all front seat adjustments, including lumbar support
 - [ ] Confirm seat warmers work 
 - [ ] Confirm the middle seat on back row is flush at both ends
+- [ ] Confirm back seats recline adjustment work correctly
 - [ ] Inspect floor mats for rips, stains, etc.
 - [ ] Inspect the metal support holding the accelerator and brake pedals
 - [ ] Turn on climate control, force the heat pump to kick in (by taking the temperature to either end of the scale) and listen for loud noises
