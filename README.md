@@ -1,10 +1,14 @@
 # Tesla Model Y Delivery Checklist
 
-The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/).
-Use it to point things out and document findings upon inspecting your MY, to be handled by Tesla as pre-delivery
-issue(s).
+The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/). The list
+is not meant to replace Tesla's QC and thus doesn't offer 100% coverage. Rather, the contributions from MY owners
+who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control at
+the factory as well as at the service centers.
+ 
+Use it to guide your inspection, point things out and document findings, and assemble a list of problems to be handled
+by Tesla as pre-delivery issue(s). 
 
-Pull-requests welcome.
+Pull requests welcome.
 
 ## Exterior
 
@@ -33,7 +37,7 @@ Pull-requests welcome.
 - [ ] Open and close the glovebox
 - [ ] Open and close windows using one click open close and manually open and close. (make sure there are no noises and they stay up when you close, and when they go down they do all the way down for front two windows. The rear two windows don't go down all the way.
 - [ ] Verify backup camera
-- [ ] Test the sound system and confirm that all speaker work and there are no unexpected clicks/etc.
+- [ ] Play a famliar track through the sound system and confirm that all speakers work and there are no unexpected clicks, etc.
 - [ ] Fold mirrors
 - [ ] Check all interior lights
 - [ ] Check windshield all around
