@@ -71,6 +71,7 @@ Pull requests welcome.
 - [ ] Inspect back seat covers and verify they're properly attached
 - [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
 
-
+## Final thoughts
+Please don't be that guy that block Tesla deliveries and staff for hours going over your new car with a microscope. You can report all of the above after you get home, at your leisure. You have a day/100 miles. It’s not like you won’t accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at pickup). Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to lock/unlock the car and put it in park. Check the local super charger while you are there, too.
 
 
