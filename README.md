@@ -2,13 +2,12 @@
 
 The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/). The list
 is not meant to replace Tesla's QC and thus doesn't offer 100% coverage. Rather, the contributions from MY owners
-who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control at
+who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control (QC) at
 the factory as well as at the service centers.
  
 Use it to guide your inspection, point things out and document findings, and assemble a list of problems to be handled
 by Tesla as pre-delivery issue(s). 
 
-Pull requests welcome.
 
 ## Exterior
 
@@ -17,8 +16,9 @@ Pull requests welcome.
 - [ ] Check for uneven trim gaps and alignment, trim stains
 - [ ] Check for trim scratches on window
 - [ ] Check tail light fit (are they flush?)
+- [ ] Inspect tail lights for condensation
 - [ ] Check head light fit
-- [ ] Turn on the lights on the car including (fog lights, head lights, taillights,  reverse light, brake, signal lights(headlight signal and side signal lights)
+- [ ] Turn on the lights on the car including: fog lights, head lights, taillights,  reverse light, brake, signal lights (headlight signal and side signal lights)
 - [ ] Check charging port fit (are they flush with tail light?)
 - [ ] Check all 4 door levers
 - [ ] Check all wheels, make sure they aren’t scratched
@@ -71,7 +71,29 @@ Pull requests welcome.
 - [ ] Inspect back seat covers and verify they're properly attached
 - [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
 
-## Final thoughts
-Please don't be that guy that block Tesla deliveries and staff for hours going over your new car with a microscope. You can report all of the above after you get home, at your leisure. You have a day/100 miles. It’s not like you won’t accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at pickup). Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to lock/unlock the car and put it in park. Check the local super charger while you are there, too.
+## Final thoughts about your delivery inspection
+Please don't be that guy that block Tesla deliveries and staff for hours going over your new car with a microscope.
+You can report all of the above after you get home, at your leisure: you have a day/100 miles. It’s not like you won’t
+accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
+pickup). Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to
+lock/unlock the car and put it in park. Check the local super charger while you are there, too.
+
+## What Next?
+
+Should anyting escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
+
+- You have 72 hours/100 miles to **refuse
+delivery**. The 72 hours refers to items subject to "wear and tear," such as paint defects, scratches,
+etc. Any item that would normally be covered under warranty is still covered under warranty. Things like blemishes,
+scratches, dings, scuffs, aren't covered by any car company.
+
+> Note: the information about refusing delivery has been
+> contributed by several people. I couldn't find the authoritative source so for the moment it's unclear whether the
+> time window is 1 day (like stated in the Final Thoughts section) or 72 hours (like stated above). 
+
+- You have [7 calendar days/1000 miles](https://www.tesla.com/support/tesla-return-policy) to **return the car**. Note that
+doing so restricts your next Tesla order: "If you decide to order another vehicle, you may not order the same trim for
+a period of 12 months but may order another vehicle in a different trim at any time."
 
 
+Pull requests wich changes/addtions welcome.
