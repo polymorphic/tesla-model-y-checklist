@@ -11,7 +11,7 @@ by Tesla as pre-delivery issue(s).
 
 ## Exterior
 
-- [ ] Check for uneven/wide panel gaps
+- [ ] Check for uneven/wide panel gaps and that panels are flush to car
 - [ ] Check for dings on pillars
 - [ ] Check for uneven trim gaps and alignment, trim stains
 - [ ] Check for trim scratches on window
@@ -23,9 +23,10 @@ by Tesla as pre-delivery issue(s).
 - [ ] Check all 4 door levers
 - [ ] Check all wheels, make sure they aren’t scratched
 - [ ] Confirm all 4 hubcaps are present and properly attached
-- [ ] Inspect wipers and look for potential wiper dings on hood
+- [ ] Check that wipers function correctly and look for potential wiper dings on hood
 - [ ] Inspect every glass and make sure there are no scratches or cracks already. 
-- [ ] Inspect paint on the outside and the door jams. 
+- [ ] Inspect paint on the outside and the door jams, ensure panel corners do not have chips
+- [ ] Check for damage to black rocker panels
 
 ## Interior
 
@@ -39,11 +40,12 @@ by Tesla as pre-delivery issue(s).
 - [ ] Verify backup camera
 - [ ] Play a famliar track through the sound system and confirm that all speakers work and there are no unexpected clicks, etc.
 - [ ] Fold mirrors
-- [ ] Check all interior lights
+- [ ] Check all interior lights, and that all reading lights turn on with a press
 - [ ] Check windshield all around
-- [ ] Inspect the headliner all around
-- [ ] Inspect both coat hooks
+- [ ] Inspect the headliner all around (no grease, damage or scuffs)
+- [ ] Inspect both coat hooks (should extend, retract and latch)
 - [ ] Inspect the steering wheel, check front & back for scratches or tears
+- [ ] Check that turn signal and drive selection stalks work and actuate smoothly
 - [ ] Look for scratches on the passenger side door sill
 - [ ] Check seats for scuffs/damage/bad seams
 - [ ] Verify all front seat adjustments, including lumbar support
@@ -66,8 +68,10 @@ by Tesla as pre-delivery issue(s).
 ## Trunk
 
 - [ ] Open & close the lift gate; sometimes the gasket gets caught in the molding causing a click 
+- [ ] Comfirm the life gate opens and closes without "shuddering" and that the button on the hatch works to close it
 - [ ] Inspect cargo covers and verify they're properly attached
 - [ ] Confirm seat & trunk buttons fold the back seats
+- [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting 
 - [ ] Inspect back seat covers and verify they're properly attached
 - [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
 
