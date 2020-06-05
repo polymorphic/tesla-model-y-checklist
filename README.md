@@ -68,7 +68,7 @@ by Tesla as pre-delivery issue(s).
 ## Trunk
 
 - [ ] Open & close the lift gate; sometimes the gasket gets caught in the molding causing a click 
-- [ ] Comfirm the life gate opens and closes without "shuddering" and that the button on the hatch works to close it
+- [ ] Comfirm the lift gate opens and closes without "shuddering" and that the button on the hatch works to close it
 - [ ] Inspect cargo covers and verify they're properly attached
 - [ ] Confirm seat & trunk buttons fold the back seats
 - [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting 
@@ -82,7 +82,7 @@ accept the car because of some minor issue that can be fixed by a mobile service
 pickup). Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to
 lock/unlock the car and put it in park. Check the local super charger while you are there, too.
 
-## What Next?
+## What next?
 
 Should anyting escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
 
