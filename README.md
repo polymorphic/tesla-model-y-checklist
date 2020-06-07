@@ -53,7 +53,9 @@ by Tesla as pre-delivery issue(s).
 - [ ] Confirm the middle seat on back row is flush at both ends
 - [ ] Confirm back seats recline adjustment work correctly
 - [ ] Inspect floor mats for rips, stains, etc.
-- [ ] Inspect the metal support holding the accelerator and brake pedals
+- [ ] Inspect the metal accelerator and brake pedal arms; there have been
+[reports](https://www.reddit.com/r/TeslaModelY/comments/gyhim1/is_this_normal_my_brake_pedal_arm_has_a_welded/) of
+different finish on pedals (matte on accelerator, glossy on break) and a conspicuous weld in the middle of the break pedal
 - [ ] Turn on climate control, force the heat pump to kick in (by taking the temperature to either end of the scale) and listen for loud noises
 - [ ] Confirm (car battery) charging works
 
@@ -100,4 +102,4 @@ doing so restricts your next Tesla order: "If you decide to order another vehicl
 a period of 12 months but may order another vehicle in a different trim at any time."
 
 
-Pull requests wich changes/addtions welcome.
+Pull requests for changes/addtions welcome.
