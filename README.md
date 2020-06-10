@@ -24,9 +24,11 @@ by Tesla as pre-delivery issue(s).
 - [ ] Check all wheels, make sure they aren’t scratched
 - [ ] Confirm all 4 hubcaps are present and properly attached
 - [ ] Check that wipers function correctly and look for potential wiper dings on hood
-- [ ] Inspect every glass and make sure there are no scratches or cracks already. 
+- [ ] Inspect every glass and make sure there are no scratches or cracks 
 - [ ] Inspect paint on the outside and the door jams, ensure panel corners do not have chips
+- [ ] Inspect paint around intake vents on the front bumper
 - [ ] Check for damage to black rocker panels
+- [ ] Ispect undercarriage
 
 ## Interior
 
