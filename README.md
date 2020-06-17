@@ -28,7 +28,7 @@ by Tesla as pre-delivery issue(s).
 - [ ] Inspect paint on the outside and the door jams, ensure panel corners do not have chips
 - [ ] Inspect paint around intake vents on the front bumper
 - [ ] Check for damage to black rocker panels
-- [ ] Ispect undercarriage
+- [ ] Inspect undercarriage
 
 ## Interior
 
@@ -57,7 +57,7 @@ by Tesla as pre-delivery issue(s).
 - [ ] Inspect floor mats for rips, stains, etc.
 - [ ] Inspect the metal accelerator and brake pedal arms; there have been
 [reports](https://www.reddit.com/r/TeslaModelY/comments/gyhim1/is_this_normal_my_brake_pedal_arm_has_a_welded/) of
-different finish on pedals (matte on accelerator, glossy on break) and a conspicuous weld in the middle of the break pedal
+different finish on pedals (matte on accelerator, glossy on brake) and a conspicuous weld in the middle of the brake pedal
 - [ ] Turn on climate control, force the heat pump to kick in (by taking the temperature to either end of the scale) and listen for loud noises
 - [ ] Confirm (car battery) charging works
 
@@ -88,7 +88,7 @@ lock/unlock the car and put it in park. Check the local super charger while you 
 
 ## What next?
 
-Should anyting escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
+Should anything escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
 
 - You have 72 hours/100 miles to **refuse
 delivery**. The 72 hours refers to items subject to "wear and tear," such as paint defects, scratches,
@@ -104,4 +104,4 @@ doing so restricts your next Tesla order: "If you decide to order another vehicl
 a period of 12 months but may order another vehicle in a different trim at any time."
 
 
-Pull requests for changes/addtions welcome.
+Pull requests for changes/additions welcome.
