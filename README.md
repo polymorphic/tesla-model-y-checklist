@@ -104,4 +104,4 @@ doing so restricts your next Tesla order: "If you decide to order another vehicl
 a period of 12 months but may order another vehicle in a different trim at any time."
 
 
-Pull requests for changes/addtions welcome.
+Pull requests for changes/additions welcome.
