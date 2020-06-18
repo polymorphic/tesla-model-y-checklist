@@ -88,7 +88,7 @@ lock/unlock the car and put it in park.  Visit and check the local super charger
 
 ## What next?
 
-Should anything escape factory QC, service center QC, and the above checklist, here are some last-resort options to be aware of:
+Should anything escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
 
 - You have 72 hours/100 miles to **refuse delivery**. The 72 hours refers to items subject to "wear and tear," such as paint defects, scratches,
 etc.  Any item that would normally be covered under warranty is still covered under warranty, but things like blemishes,
