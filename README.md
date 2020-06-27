@@ -21,7 +21,7 @@ items that could be inspected while the car is locked.
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
 - [ ] Make sure the hood sits flush with the quarter panels and frunk
-- [ ] Inspect that the windshield isn't istalled shifted (the gaps between the glass and A pillar on either side
+- [ ] Inspect that the windshield isn't installed shifted (the gaps between the glass and A pillar on either side
 should be approximately equal). An improperly installed windshield causes significant wind noise at highway speeds.
 - [ ] Check for uneven/wide panel gaps and that panels are flush to car
 - [ ] Check for trim stains
