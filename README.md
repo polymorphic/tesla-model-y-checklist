@@ -31,14 +31,17 @@ should be approximately equal). An improperly installed windshield causes signif
 - [ ] Check for dings on pillars
 - [ ] Inspect the paint on the outside and the door jams, ensure panel corners do not have chips
 - [ ] Check for damage to black rocker panels
-- [ ] Check the tail light fit. __Photo:__ [tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
+- [ ] Check the tail light fit
+> * __Photo:__ [tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
+> * __Fix:__ not yet available
 - [ ] Check charging port fit (driver side)
 - [ ] Inspect the tail lights for condensation
 - [ ] Inspect the undercarriage, look for damage, missing screws, or screws that are sticking out
 - [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
 pins (pushed in all the way) and metal threaded pins (sticking out) with plastric nuts. Confirm that all plastic pins are present
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
-__Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
+> * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
+> * __Fix:__ mobile service can fix it in minutes
 
 ### Unlocked
 
@@ -47,7 +50,9 @@ __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcV
 - [ ] Inspect every glass and make sure there are no scratches or cracks 
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
 - [ ] Verify that the charge port opens and closes
-- [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors. __Photo:__ [rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
+- [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors.
+> * __Photo:__ [rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
+> * __Fix:__ service center, replace rubber gaskets
 
 ## Interior
 
