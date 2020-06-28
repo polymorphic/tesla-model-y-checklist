@@ -5,7 +5,6 @@ is not meant to replace Tesla's QC and thus doesn't offer 100% coverage. Rather,
 who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control (QC) at
 the factory as well as at the service centers.
 
- 
 Use it to guide your inspection, document findings, assemble a list of problems to be handled by Tesla as pre-delivery issue(s)
 or refuse delivery.
 
@@ -115,16 +114,27 @@ lock/unlock the car and put it in park.  Visit and check the local super charger
 
 Should anything escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
 
-- You have 72 hours/100 miles to **refuse delivery**. The 72 hours refers to items subject to "wear and tear," such as paint defects, scratches,
-etc.  Any item that would normally be covered under warranty is still covered under warranty, but things like blemishes,
-scratches, dings, scuffs, aren't covered by any car company.
+- If the quality of the car is inadequate you can **refuse delivery**. There have been several refused delivery reports
+([1](https://www.reddit.com/r/TeslaModelY/comments/hgewe8/rejected_delivery_today_vin_012xxx/), 
+[2](https://www.reddit.com/r/TeslaModelY/comments/hgvjee/follow_up_image_from_my_other_post_here_was_the/),
+[3](https://www.reddit.com/r/TeslaModelY/comments/hgew40/model_y_rejected_delivery_today/),
+[4](https://www.reddit.com/r/TeslaModelY/comments/hfuum2/deferred_my_delivery/),
+[5](https://www.reddit.com/r/TeslaModelY/comments/hfb1vg/cancelled_model_y_delivery/),
+[6](https://www.reddit.com/r/TeslaModelY/comments/hete2x/update_rejected_delivery/)), check out the threads
+ for details. Following that you should be assigned a new VIN.
+ 
+- After leaving the lot you have 72 hours/100 miles to **report delivery issues to be fixed free of charge**. The 72 hours
+refers to items subject to "wear and tear," such as paint defects, scratches, etc. Any item that would normally be covered
+under warranty is still covered under warranty, but things like blemishes, scratches, dings, scuffs, aren't covered by any
+other car company. However check [this thread](https://www.reddit.com/r/TeslaModelY/comments/hh8mgv/rattling_in_back_seats_reported_within_7_days/)
+about a problem reported within the first 7 days of ownership and being asked to accept a cost estimate.
 
-> Note: the information about refusing delivery has been
-> contributed by several people. I couldn't find the authoritative source so for the moment it's unclear whether the
-> time window is 1 day (like stated in the Final Thoughts section) or 72 hours (like stated above). 
+> Note: the information about refusing delivery and reporting delivery issues has been
+> contributed by several people. I couldn't find the authoritative source; pointers appreciated. 
 
-- You have [7 calendar days/1000 miles](https://www.tesla.com/support/tesla-return-policy) to **return the car**. Note that
-doing so restricts your next Tesla order: "If you decide to order another vehicle, you may not order the same trim for
+- As a last resport you have [7 calendar days/1000 miles](https://www.tesla.com/support/tesla-return-policy) to **return the car**
+(here's a [first-hand account](https://www.reddit.com/r/TeslaModelY/comments/heb5cu/i_changed_my_mind_im_returning_my_model_y/)).
+Note that doing so restricts your next Tesla order: "If you decide to order another vehicle, you may not order the same trim for
 a period of 12 months but may order another vehicle in a different trim at any time."
 
 
