@@ -112,7 +112,7 @@ lock/unlock the car and put it in park.  Visit and check the local super charger
 
 ## What next?
 
-Should anything escape factory QC, service center QC, and the above cheklist here are some last resort options to be aware of:
+Should anything escape factory QC, service center QC, and the above cheklist here are some options to be aware of:
 
 - If the quality of the car is inadequate you can **refuse delivery**. There have been several refused delivery reports
 ([1](https://www.reddit.com/r/TeslaModelY/comments/hgewe8/rejected_delivery_today_vin_012xxx/), 
@@ -132,7 +132,7 @@ about a problem reported within the first 7 days of ownership and being asked to
 > Note: the information about refusing delivery and reporting delivery issues has been
 > contributed by several people. I couldn't find the authoritative source; pointers appreciated. 
 
-- As a last resport you have [7 calendar days/1000 miles](https://www.tesla.com/support/tesla-return-policy) to **return the car**
+- As a last resort you have [7 calendar days/1000 miles](https://www.tesla.com/support/tesla-return-policy) to **return the car**
 (here's a [first-hand account](https://www.reddit.com/r/TeslaModelY/comments/heb5cu/i_changed_my_mind_im_returning_my_model_y/)).
 Note that doing so restricts your next Tesla order: "If you decide to order another vehicle, you may not order the same trim for
 a period of 12 months but may order another vehicle in a different trim at any time."
