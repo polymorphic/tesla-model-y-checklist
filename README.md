@@ -8,8 +8,8 @@ the factory as well as at the service centers.
 Use it to guide your inspection, document findings, assemble a list of problems to be handled by Tesla as pre-delivery issue(s)
 or refuse delivery.
 
-Only a fraciton of the potential issues can be inspected without unlocking the vehicle. Unless the service center staff offers to
-unlock, you cannot do so prior to accepting delivery on your phone. To facilitate making that decision the list begins with
+Not all issues can be inspected without unlocking the vehicle. Unless the service center staff offers to
+unlock your vehicle, you cannot do so prior to accepting delivery on your phone. To facilitate making that decision the list begins with
 items that could be inspected while the car is locked.
 
 ## Exterior
@@ -36,6 +36,8 @@ should be approximately equal). An improperly installed windshield causes signif
 - [ ] Check charging port fit (driver side)
 - [ ] Inspect the tail lights for condensation
 - [ ] Inspect the undercarriage, look for damage, missing screws, or screws that are sticking out
+> * __Photo:__ [undercarriage screw found sticking out, not fully tightened](https://imgur.com/TozVn9I)
+> * __Fix:__ requires a 10mm wrench; should you spot anything that needs attention ask the SC staff to inspect all screws and clips (they should've done it already) 
 - [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
 pins (pushed in all the way) and metal threaded pins (sticking out) with plastric nuts. Confirm that all plastic pins are present
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
@@ -112,7 +114,7 @@ lock/unlock the car and put it in park.  Visit and check the local super charger
 
 ## What next?
 
-Should anything escape factory QC, service center QC, and the above cheklist here are some options to be aware of:
+Should anything escape factory QC, service center QC, and the above checklist here are some options to be aware of:
 
 - If the quality of the car is inadequate you can **refuse delivery**. There have been several refused delivery reports
 ([1](https://www.reddit.com/r/TeslaModelY/comments/hgewe8/rejected_delivery_today_vin_012xxx/), 
@@ -136,6 +138,17 @@ about a problem reported within the first 7 days of ownership and being asked to
 (here's a [first-hand account](https://www.reddit.com/r/TeslaModelY/comments/heb5cu/i_changed_my_mind_im_returning_my_model_y/)).
 Note that doing so restricts your next Tesla order: "If you decide to order another vehicle, you may not order the same trim for
 a period of 12 months but may order another vehicle in a different trim at any time."
+
+## Ownership beyond the first 1,000 miles
+
+Making it past the above milestones doesn't mean that SC visits or Mobile Service appointments are a thing of the past. Remaining problems caused by
+QC issues may be covered by [Tesla's New Vehicle Warranty](https://www.tesla.com/support/vehicle-warranty), which for Long Range and Performance
+MYs is 8 years or 120,000 miles. Here are a few things to keep an eye on:
+
+* Door rubber gaskets. Keep an eye on the gaskets, particularly on the door bottoms (see above under Unlocked).
+* Tail light condensation. Wide temperature changes (such as when leaving the vehicle parked in the sun) may cause condensation to appear in the rear tail
+lights. Should that happen fairly evenly across all 4 lights Tesla won't do anything about it. You may have better luck if it's asymmetric so keep an eye for that.
+ 
 
 
 Pull requests for changes/additions welcome.
