@@ -39,7 +39,7 @@ should be approximately equal). An improperly installed windshield causes signif
 > * __Photo:__ [undercarriage screw found sticking out, not fully tightened](https://imgur.com/TozVn9I)
 > * __Fix:__ requires a 10mm wrench; should you spot anything that needs attention ask the SC staff to inspect all screws and clips (they should've done it already) 
 - [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic
-pins (pushed in all the way) and metal threaded pins (sticking out) with plastric nuts. Confirm that all plastic pins are present
+pins (pushed in all the way) and metal threaded pins (sticking out) with plastic nuts. Confirm that all plastic pins are present
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 > * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
 > * __Fix:__ mobile service can fix it in minutes
