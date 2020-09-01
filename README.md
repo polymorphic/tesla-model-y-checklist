@@ -145,10 +145,11 @@ Making it past the above milestones doesn't mean that SC visits or Mobile Servic
 QC issues may be covered by [Tesla's New Vehicle Warranty](https://www.tesla.com/support/vehicle-warranty), which for Long Range and Performance
 MYs is 8 years or 120,000 miles. Here are a few things to keep an eye on:
 
-* Door rubber gaskets. Keep an eye on the gaskets, particularly on the door bottoms (see above under Unlocked).
-* Tail light condensation. Wide temperature changes (such as when leaving the vehicle parked in the sun) may cause condensation to appear in the rear tail
+* __Door rubber gaskets__ Keep an eye on the gaskets, particularly on the door bottoms (see above under Unlocked).
+* __Tail light condensation__ Wide temperature changes (such as when leaving the vehicle parked in the sun) may cause condensation to appear in the rear tail
 lights. Should that happen fairly evenly across all 4 lights Tesla won't do anything about it. You may have better luck if it's asymmetric so keep an eye for that.
- 
-
+* __Trim liner__ Poor quality adhesive, bad adhesive application, or a combination of both could cause trim liner pieces glued to the trim to come off. For example,
+here's the [liner peeling off from the lift gate trim](https://imgur.com/a/mqvdf77) after only a couple of months. Keep an eye on glued parts and schedule
+service for anything that's coming loose.
 
 Pull requests for changes/additions welcome.
