@@ -12,6 +12,15 @@ Not all issues can be inspected without unlocking the vehicle. Unless the servic
 unlock your vehicle, you cannot do so prior to accepting delivery on your phone. To facilitate making that decision the list begins with
 items that could be inspected while the car is locked.
 
+Since you are inspecting a vehicle for issues, and issues can be dangerous, be careful. Do not stick your fingers between exterior panels
+or anywhere else you can not visually inspect.
+
+## Before You Buy
+
+Ensure that you buy the car at the location you intend to pick up. Working with a showroom sales representative means that the rep is not on
+the ground and is unable to inspect the vehicle themselves before selling it to you. Sales requests are simply forward onto the pickup location
+and any personal details or requests are lost in the handoff.
+
 ## Exterior
 
 ### Locked
@@ -111,6 +120,16 @@ You can report all of the above after you get home, at your leisure: you have a 
 accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
 pickup).  Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to
 lock/unlock the car and put it in park.  Visit and check the local super charger while you are there, too.
+
+Better yet, if you can, pick up the car in person at an express checkout site. Assuming all of your affairs are in order via
+the website, Tesla will park your car in their lot and put your name on it. You simply sign the paperwork they leave on the dash,
+deposit the paperwork in a bin, and drive off. This allows you all of the time you require to insepect the vehicle before designing
+to accept the car or not. Do note that the express checkout is often staffed by temporary hires or other low-level staff as their
+only function is to shuffle the cars around and ensure the proper paperwork awaits you. Any problems that may arise they will simply
+ask you to schedule an appointment to come back in with the vehicle.
+
+This car is quite pricey. Make sure it is absolutely what you want before you accept it. With the recent push to "make the numbers,"
+Tesla is selling cars at a faster clip than they are staffing up at. Wait times to get any issues resolved "later" may be immense.
 
 ## What next?
 
