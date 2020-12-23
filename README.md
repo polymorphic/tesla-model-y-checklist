@@ -32,6 +32,7 @@ and any personal details or requests are lost in the handoff.
 - [ ] Inspect that the windshield isn't installed shifted (the gaps between the glass and A pillar on either side
 should be approximately equal). An improperly installed windshield causes significant wind noise at highway speeds.
 - [ ] Check for uneven/wide panel gaps and that panels are flush to car
+- [ ] Check that the trim along the bottom of the sides of the vehicle are flush with the bottom of the doors
 - [ ] Check for trim stains
 - [ ] Check all 4 door levers
 - [ ] Check all wheels, make sure they aren’t scratched
@@ -59,6 +60,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Check that wipers function correctly and look for potential wiper dings on hood
 - [ ] Inspect every glass and make sure there are no scratches or cracks 
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
+- [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at 50% but the local dealer should charge it to 100%.
 - [ ] Verify that the charge port opens and closes
 - [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors.
 > * __Photo:__ [rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
