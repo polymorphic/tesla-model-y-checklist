@@ -25,9 +25,9 @@ and any personal details or requests are lost in the handoff.
 
 ### Locked
 
-- [ ] Vehicle VIN matches the expected assigned VIN
+- [ ] Vehicle VIN matches the assigned VIN
 - [ ] Color is as ordered
-- [ ] Wheel style is as ordered
+- [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
 - [ ] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
