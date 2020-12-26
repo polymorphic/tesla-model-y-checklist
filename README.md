@@ -25,6 +25,9 @@ and any personal details or requests are lost in the handoff.
 
 ### Locked
 
+- [ ] Vehicle VIN matches the expected assigned VIN
+- [ ] Color is as ordered
+- [ ] Wheel style is as ordered
 - [ ] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
@@ -34,7 +37,8 @@ should be approximately equal). An improperly installed windshield causes signif
 - [ ] Check for uneven/wide panel gaps and that panels are flush to car
 - [ ] Check for trim stains
 - [ ] Check all 4 door levers
-- [ ] Check all wheels, make sure they aren’t scratched
+- [ ] Check all wheels, ensure they are not scratched
+- [ ] Check all wheels, ensure there is nothing lodged in the tread (screws, nails, debris, etc.)
 - [ ] Confirm all 4 hubcaps are present and properly attached
 - [ ] Check for dings on pillars
 - [ ] Inspect the paint on the outside and the door jams, ensure panel corners do not have chips
@@ -84,6 +88,7 @@ are no unexpected clicks, etc.
 - [ ] Inspect both coat hooks (should extend, retract and latch)
 - [ ] Inspect the steering wheel, check front & back for scratches or tears
 - [ ] Check that turn signal and drive selection stalks work and actuate smoothly
+- [ ] Check that the car can be put into reverse, neutral, park
 - [ ] Look for scratches on the passenger side door sill
 - [ ] Check seats for scuffs/damage/bad seams
 - [ ] Verify all front seat adjustments, including lumbar support
@@ -118,8 +123,7 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 Please don't be "that guy" that blocks Tesla deliveries and staff for hours while going over your new car with a microscope!
 You can report all of the above after you get home, at your leisure: you have a day/100 miles. It’s not like you won’t
 accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
-pickup).  Critical things to check on site are VIN, color, wheels, etc. and critical safety, like being able to
-lock/unlock the car and put it in park.  Visit and check the local super charger while you are there, too.
+pickup).   Visit and check the local super charger while you are there, too.
 
 Better yet, if you can, pick up the car in person at an express checkout site. Assuming all of your affairs are in order via
 the website, Tesla will park your car in their lot and put your name on it. You simply sign the paperwork they leave on the dash,
