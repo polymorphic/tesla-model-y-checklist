@@ -15,6 +15,8 @@ items that could be inspected while the car is locked.
 Since you are inspecting a vehicle for issues, and issues can be dangerous, be careful. Do not stick your fingers between exterior panels
 or anywhere else you cannot visually inspect.
 
+This checklist requires at least 90 minutes to complete.
+
 ## Before You Buy
 
 Ensure that you buy the car at the location you intend to pick up. Working with a showroom sales representative means that the rep is not on
@@ -130,7 +132,8 @@ the website, Tesla will park your car in their lot and put your name on it. You 
 deposit the paperwork in a bin, and drive off. This allows you all the time you require to inspect the vehicle before deciding
 to accept the car or not. Do note that the express checkout is often staffed by temporary hires or other low-level staff as their
 only function is to shuffle the cars around and ensure the proper paperwork awaits you. Any problems that may arise they will simply
-ask you to schedule an appointment to come back in with the vehicle.
+ask you to schedule an appointment to come back in with the vehicle. Plan accordingly: do not pickup the vehicle at dusk and have
+to examine everything in darkness.
 
 This car is quite pricey. Make sure it is absolutely what you want before you accept delivery. With the recent push to "make the numbers,"
 Tesla is selling cars at a faster clip than they are staffing up at. Wait times to get any issues resolved "later" may be immense.
