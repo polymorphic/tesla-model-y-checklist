@@ -60,7 +60,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Check that wipers function correctly and look for potential wiper dings on hood
 - [ ] Inspect every glass and make sure there are no scratches or cracks 
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
-- [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at 50% but the local dealer should charge it to 100%.
+- [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
 - [ ] Verify that the charge port opens and closes
 - [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors.
 > * __Photo:__ [rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
