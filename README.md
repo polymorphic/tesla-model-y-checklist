@@ -30,6 +30,7 @@ location and any personal details or requests are lost in the handoff.
 - [ ] Vehicle VIN matches the assigned VIN
 - [ ] Color is as ordered
 - [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
+- [ ] A sleeve with *two* keys is provided
 - [ ] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
