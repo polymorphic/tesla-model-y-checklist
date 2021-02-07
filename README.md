@@ -30,14 +30,16 @@ location and any personal details or requests are lost in the handoff.
 - [ ] Vehicle VIN matches the assigned VIN
 - [ ] Color is as ordered
 - [ ] Wheel style is as ordered (19" 'Gemini' Wheel, 20" Induction Wheel, etc).
-- [ ] Check the headlight fit
+- [ ] A sleeve with *two* keys is provided
+- [ ] Check the head light fit
 - [ ] Inspect the paint around intake vents on the front bumper
 - [ ] Inspect the frunk, look for paint defects, dents and signs of improper closing by the sides of the T logo
 - [ ] Make sure the hood sits flush with the quarter panels and frunk
 - [ ] Inspect that the windshield is installed properly (gaps between the glass and A pillar on either side
 should be approximately equal). An improperly installed windshield causes significant wind noise at highway speeds.
-- [ ] Check for uneven/wide panel gaps and that panels are flush with each other
-- [ ] Check for trim scratches and stains
+- [ ] Check for uneven/wide panel gaps and that panels are flush to car
+- [ ] Check that the trim along the bottom of the sides of the vehicle is flush with the bottom of the doors
+- [ ] Check for trim stains
 - [ ] Check all 4 door levers
 - [ ] Ensure wheels are not scratched
 - [ ] Ensure there is nothing lodged in the tires (screws, nails, debris, etc.)
@@ -65,6 +67,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Check that wipers function correctly and look for potential wiper dings on hood
 - [ ] Inspect all glass and make sure there are no scratches or cracks 
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
+- [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
 - [ ] Verify that the charge port opens and closes
 - [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors.
 > * **Photo:** [Rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
