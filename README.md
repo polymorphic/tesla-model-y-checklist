@@ -69,9 +69,9 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Check for trim scratches on windows due to a software bug that doesn't automatically lower the window when opening the door
 - [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
 - [ ] Verify that the charge port opens and closes
-- [ ] Verify that the rubber gasket is properly attached to the bottom of all 4 doors.
-> * __Photo:__ [rubber gasket loose on driver door bottom](https://imgur.com/AodUDfg)
-> * __Fix:__ service center, replace rubber gaskets
+- [ ] Verify that the rubber seal is properly attached to the bottom of all 4 doors.
+> * __Photo:__ [rubber seal loose on driver door bottom](https://imgur.com/AodUDfg)
+> * __Fix:__ service center, replace rubber seal (Tesla calls it a "secondary seal")
 
 ## Interior
 
@@ -115,7 +115,7 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 
 ## Trunk
 
-- [ ] Open & close the lift gate; sometimes the gasket gets caught in the molding, causing a click 
+- [ ] Open & close the lift gate; sometimes the weather seal gets caught in the molding, causing a click 
 - [ ] Confirm the lift gate opens and closes without "shuddering" and that the button on the hatch works to close it
 - [ ] Inspect the cargo covers and verify they're properly attached
 - [ ] Confirm that seat & trunk buttons fold the back seats
@@ -169,7 +169,7 @@ Making it past the above milestones doesn't mean that SC visits or Mobile Servic
 QC issues may be covered by [Tesla's New Vehicle Warranty](https://www.tesla.com/support/vehicle-warranty), which for Long Range and Performance
 MYs is 8 years or 120,000 miles. Here are a few things to keep an eye on:
 
-* __Door rubber gaskets__ Keep an eye on the gaskets, particularly on the door bottoms (see above under Unlocked).
+* __Door rubber seals__ Keep an eye on the seals, particularly on the door bottoms (see above under Unlocked).
 * __Tail light condensation__ Wide temperature changes (such as when leaving the vehicle parked in the sun) may cause condensation to appear in the rear tail
 lights. Should that happen fairly evenly across all 4 lights Tesla won't do anything about it. You may have better luck if it's asymmetric so keep an eye for that.
 * __Trim liner__ Poor quality adhesive, bad adhesive application, or a combination of both could cause trim liner pieces glued to the trim to come off. For example,
