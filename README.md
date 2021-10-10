@@ -79,7 +79,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Inspect the center console scratches, dings, etc.
 - [ ] Inspect the dash for scratches
 - [ ] Verify that wireless charging works on both sides
-- [ ] Confirm wired charging works (1 x USB-A in front, 3 x USB-C, front and back)
+- [ ] Confirm wired charging works (2 x USB-C in front, 2 x USB-C in back)
 - [ ] Open and close the glovebox
 - [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
 go down they do all the way down for front two windows. The rear two windows don't go down all the way.
