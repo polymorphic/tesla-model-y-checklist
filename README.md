@@ -79,8 +79,9 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Inspect the center console scratches, dings, etc.
 - [ ] Inspect the dash for scratches
 - [ ] Verify that wireless charging works on both sides
-- [ ] Confirm wired charging works (1 x USB-A in front, 3 x USB-C, front and back)
+- [ ] Confirm wired charging works (2 x USB-C in front, 2 x USB-C in back)
 - [ ] Open and close the glovebox
+  - [ ] Make sure USB drive for Sentry Mode / Dashcam is present
 - [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
 go down they do all the way down for front two windows. The rear two windows don't go down all the way.
 - [ ] Verify backup camera
@@ -122,6 +123,7 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 - [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting 
 - [ ] Inspect the back seat covers and verify they're properly attached
 - [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
+- [ ] Check for tow hitch if you included it on your order.
 
 ## Final thoughts about your delivery inspection
 
