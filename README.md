@@ -99,6 +99,7 @@ are no unexpected clicks, etc.
 - [ ] Check seats for scuffs/damage/bad seams
 - [ ] Verify all front seat adjustments, including lumbar support
 - [ ] Confirm seat warmers work 
+- [ ] Verify third row seats work correctly if included in your order
 - [ ] Confirm the middle seat on back row is flush at both ends
 - [ ] Confirm that back seats recline adjustment works correctly
 - [ ] Inspect the floor mats for rips, stains, etc.
