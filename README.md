@@ -178,5 +178,3 @@ lights. Should that happen fairly evenly across all 4 lights Tesla won't do anyt
 * __Trim liner__ Poor quality adhesive, bad adhesive application, or a combination of both could cause trim liner pieces glued to the trim to come off. For example,
 here's the [liner peeling off from the lift gate trim](https://imgur.com/a/mqvdf77) after only a couple of months. Keep an eye on glued parts and schedule
 service for anything that's coming loose.
-
-Pull requests for changes/additions welcome.
