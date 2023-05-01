@@ -123,7 +123,7 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 - [ ] Confirm that seat & trunk buttons fold the back seats
 - [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting 
 - [ ] Inspect the back seat covers and verify they're properly attached
-- [ ] Confirm the charging cable and the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) aren't missing
+- [ ] Confirm the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) isn't missing
 - [ ] Check for tow hitch if you included it on your order.
 
 ## Final thoughts about your delivery inspection
