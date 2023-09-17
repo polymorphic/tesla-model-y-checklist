@@ -129,7 +129,7 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 ## Final thoughts about your delivery inspection
 
 Please don't be "that guy" that blocks Tesla deliveries and staff for hours while going over your new car with a microscope!
-You can report all of the above after you get home, at your leisure: you have a day/100 miles. It’s not like you won’t
+You can report all of the above after you get home, at your leisure: you have a 7 day/100 miles. It’s not like you won’t
 accept the car because of some minor issue that can be fixed by a mobile service tech later (but won’t be fixed at
 pickup).   Visit and check the local super charger while you are there, too.
 
