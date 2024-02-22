@@ -97,6 +97,7 @@ are no unexpected clicks, etc.
 - [ ] Check that the car can be put into reverse, neutral, park
 - [ ] Look for scratches on the passenger side door sill
 - [ ] Check seats for scuffs/damage/bad seams
+- [ ] Check that headrests work
 - [ ] Verify all front seat adjustments, including lumbar support
 - [ ] Confirm seat warmers work 
 - [ ] Verify third row seats work correctly if included in your order
