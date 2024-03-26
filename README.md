@@ -125,6 +125,7 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 - [ ] Inspect the back seat covers and verify they're properly attached
 - [ ] Confirm the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) isn't missing
 - [ ] Check for tow hitch if you included it on your order.
+- [ ] Check for Front License plate holder.
 
 ## Final thoughts about your delivery inspection
 
