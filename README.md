@@ -60,6 +60,8 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 > * __Photo:__ [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
 > * __Fix:__ mobile service can fix it in minutes
+- [ ] Check alignment and gaps around headlights, trunk arms, roof, and frunk
+- [ ] Check for scratches, dents, or missing components under the vehicle.
 
 ### Unlocked
 
@@ -70,6 +72,10 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Express Pickup: Check the charge of the vehicle. It comes from the factory at ~50% but the local distributor should charge it to 80%-90% for a "full tank."
 - [ ] Verify that the charge port opens and closes
 - [ ] Verify that the rubber seal is properly attached to the bottom of all 4 doors.
+- [ ] Test power liftgate operation and height adjustment
+- [ ] Inspect the weather seals around door gaps and windows
+- [ ] Verify water guards below the rear windshield are clear
+- [ ] Inspect glass for ripples, distortion, scratches, or cracks
 > * __Photo:__ [rubber seal loose on driver door bottom](https://imgur.com/AodUDfg)
 > * __Fix:__ service center, replace rubber seal (Tesla calls it a "secondary seal")
 
@@ -80,6 +86,7 @@ pins (pushed in all the way) and metal threaded pins (sticking out) with plastic
 - [ ] Inspect the dash for scratches
 - [ ] Verify that wireless charging works on both sides
 - [ ] Confirm wired charging works (2 x USB-C in front, 2 x USB-C in back)
+  - [ ] Test USB ports (USB-A, USB-C) and 12VDC receptacle.
 - [ ] Open and close the glovebox
   - [ ] Make sure USB drive for Sentry Mode / Dashcam is present
 - [ ] Open and close windows using one click open close and manually open and close (make sure there are no noises and they stay up when you close, and when they
@@ -89,6 +96,8 @@ go down they do all the way down for front two windows. The rear two windows don
 are no unexpected clicks, etc.
 - [ ] Fold mirrors
 - [ ] Check all interior lights, and that all reading lights turn on with a press
+  - [ ] Puddle lights, door pocket lighting, overhead lights, etc.
+  - [ ] Check steering wheel control lights
 - [ ] Check windshield all around
 - [ ] Inspect the headliner all around (no grease, damage or scuffs)
 - [ ] Inspect both coat hooks (should extend, retract and latch)
@@ -108,6 +117,9 @@ are no unexpected clicks, etc.
 different finish on pedals (matte on accelerator, glossy on brake) and a conspicuous weld in the middle of the brake pedal
 - [ ] Turn on climate control, force the heat pump to kick in by taking the temperature to either end of the scale and listen for loud noises
 - [ ] Confirm (car battery) charging works
+- [ ] Test HVAC system, seat adjustments, and heated seats
+- [ ] Verify Park Assist sensor, Blind Spot camera, and wireless phone charger connectivity
+- [ ] Test the sound system, and check for phantom touches and dead pixels on the Sketchpad app.
 
 ## Frunk
 
@@ -117,11 +129,17 @@ different finish on pedals (matte on accelerator, glossy on brake) and a conspic
 
 ## Trunk
 
-- [ ] Open & close the lift gate; sometimes the weather seal gets caught in the molding, causing a click 
+- [ ] Open & close the lift gate; sometimes the weather seal gets caught in the molding, causing a click
+  - [ ] Test power liftgate operation and height adjustment
+  - [ ] Inspect the weather seals around door gaps and windows
+  - [ ] Verify water guards below the rear windshield are clear
+  - [ ] Check the frunk/trunk lighting (there are 2 trunk lights)
 - [ ] Confirm the lift gate opens and closes without "shuddering" and that the button on the hatch works to close it
 - [ ] Inspect the cargo covers and verify they're properly attached
-- [ ] Confirm that seat & trunk buttons fold the back seats
-- [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting 
+- [ ] Check the rear seats
+  - [ ] Confirm that seat & trunk buttons fold the back seats
+  - [ ] Confirm folding rear seats do not catch on the rear trunk floor carpeting
+  - [ ] Ensure the bottom of the back seats is securely attached.
 - [ ] Inspect the back seat covers and verify they're properly attached
 - [ ] Confirm the [J1772 adapter](https://shop.tesla.com/product/sae-j1772-charging-adapter) isn't missing
 - [ ] Check for tow hitch if you included it on your order.
